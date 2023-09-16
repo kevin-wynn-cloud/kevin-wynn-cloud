@@ -14,7 +14,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the GitHub Actions Token
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Use the GitHub Actions Token
           REPOSITORY: kevin-wynn-cloud/kevin-wynn-cloud
           COMMIT_MESSAGE: "Updated README with new badges"
           CREDLY_USER: kevin-wynn.fe2c81dc
