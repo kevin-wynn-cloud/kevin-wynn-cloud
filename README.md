@@ -2,7 +2,7 @@
 
 My goal is to start sharing images and guides on GitHub related to my cloud projects and labs. This will include detailed problem descriptions, my solutions, architecture diagrams, and relevant code and CloudFormation templates. Your visit and support are greatly appreciated! My ultimate goal is to work with AWS as a Solutions Architect and immerse myself even more in cloud technologies.
 
-Big thanks to user pemtajo for sharing this fantastic method of scraping my Credly profile for my badges (and I'm hoping to earn more!)
+Big thanks to the user pemtajo for generously sharing this fantastic method for regularly and automatically scraping my Credly profile to retrieve my badges. I'm looking forward to earning more!
 
 <!--START_SECTION:badges-->
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/0a1e3f10-5b23-49bb-ab9b-a55bbdd9e456 "AWS Cloud Quest: Solutions Architect")
