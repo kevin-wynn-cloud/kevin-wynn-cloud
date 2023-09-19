@@ -18,6 +18,6 @@ jobs:
           REPOSITORY: kevin-wynn-cloud/kevin-wynn-cloud
           COMMIT_MESSAGE: "Updated README with new badges"
           CREDLY_USER: kevin-wynn.fe2c81dc
-          CREDLY_SORT: RECENT
+          CREDLY_SORT: POPULAR
           BADGE_SIZE: 110
           NUMBER_LAST_BADGES: 0
