@@ -19,5 +19,5 @@ jobs:
           COMMIT_MESSAGE: "Updated README with new badges"
           CREDLY_USER: kevin-wynn.fe2c81dc
           CREDLY_SORT: POPULAR
-          BADGE_SIZE: 110
+          BADGE_SIZE: 150
           NUMBER_LAST_BADGES: 0
