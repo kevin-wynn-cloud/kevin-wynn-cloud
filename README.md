@@ -6,7 +6,7 @@ I'm a sunny and warm-hearted person, with my family serving as driving sources o
 
 ## GitHub Goal
 
-My goal is to start sharing guides on GitHub related to my cloud projects and labs. This will include detailed problem descriptions, my solutions, architecture diagrams, and relevant code and CloudFormation templates. Your visit and support are greatly appreciated! My ultimate goal is to work with AWS as a Solutions Architect and immerse myself even more in cloud technologies. 🚀
+My goal is to start sharing guides on GitHub related to my cloud projects and labs. This will include detailed problem descriptions, my solutions, architecture diagrams, and relevant code and CloudFormation templates. Your visit and support are greatly appreciated! My ultimate goal is to work with AWS as a Solutions Architect and immerse myself even more in cloud technologies. 
 
 ## Certificates and Badges
 
