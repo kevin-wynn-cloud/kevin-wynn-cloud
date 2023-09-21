@@ -1,4 +1,6 @@
-# Hi! I'm Kevin Wynn.
+# Hi! I'm Kevin Wynn
+
+Although my dog Mare-Bear is the one pictured.
 
 ## About Me
 
