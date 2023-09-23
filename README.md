@@ -6,10 +6,6 @@ Although my dog Mare-Bear is the one pictured.
 
 I'm a sunny and warm-hearted person, with my family serving as driving sources of inspiration. I have devoted several years to studying and applying cloud technologies and am eagerly looking forward to specializing in the industry. Some of my favorite hobbies include training my dogs, playing NFL Fantasy Football, Chess Evolved Online, and reading manga.
 
-## My AWS Repository
-
-For security purposes, I am keeping my compiled work in a private repository. However, if you are a potential cloud-based employer interested in reviewing my experiences, please feel free to contact me. My repository includes walkthroughs and experiences from the hundreds of lab and project hours I have dedicated to AWS.
-
 ## Certificates and Badges
 
 Big thanks to the user pemtajo for generously sharing this fantastic method for regularly and automatically scraping my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
@@ -21,3 +17,9 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/150x150/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/0523bd23-0ab9-488a-8026-82d9251603bc "AWS Cloud Quest: Cloud Practitioner")
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/150x150/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/0a1e3f10-5b23-49bb-ab9b-a55bbdd9e456 "AWS Cloud Quest: Solutions Architect")
 <!--END_SECTION:badges-->
+
+## My AWS Repository
+
+For security reasons, I maintain my compiled work in a private repository. If you are a potential cloud-based employer interested in reviewing my experiences, please don't hesitate to contact me for access. My repository contains walkthroughs and insights gathered from the hundreds of lab and project hours I've devoted to AWS. Below is a peek at my currently compiled guides for various labs or projects.
+
+![1](https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/5ee5c09c-26bf-46d8-844d-ba2eac9ace10)
