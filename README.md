@@ -20,6 +20,6 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 
 ## My AWS Repository
 
-For security reasons, I maintain my compiled work in a private repository. If you are a potential cloud-based employer interested in reviewing my experiences, please don't hesitate to contact me for a zip archive. My repository contains walkthroughs and insights gathered from the hundreds of lab and project hours I've devoted to AWS. Below is my currently compiled guides for various labs or projects.
+For security reasons, I maintain my compiled work in a private repository. If you are a potential cloud-based employer interested in reviewing my experiences, please don't hesitate to contact me for a zip archive. My repository contains walkthroughs and insights gathered from the hundreds of lab and project hours I've devoted to AWS. Below are my currently compiled guides:
 
 ![1](https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/5ee5c09c-26bf-46d8-844d-ba2eac9ace10)
