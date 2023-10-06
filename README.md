@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/8afef303-7d4f-4d92-a56d-7e7a3ee22c21" alt="giphy">
+</div>
+
 # Hi, I'm Kevin Wynn.
 
 Although my dog Mare-Bear is the one pictured.
@@ -22,6 +26,4 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 
 ## My AWS Repository
 
-For security reasons, I currently maintain my compiled work in a private repository. If you are a potential cloud-based employer interested in reviewing my experiences, please don't hesitate to contact me for a zip archive. My repository contains walkthroughs and insights gathered from the lab and project hours I've devoted to AWS. Below are my currently compiled guides:
-
-![1](https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/5ee5c09c-26bf-46d8-844d-ba2eac9ace10)
+For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please don't hesitate to contact me for a zip archive. My repository contains walkthroughs and insights gathered from the lab and project hours I've devoted to AWS. I am planning to review and make it publicly accessible once I complete my Tech U course. 
