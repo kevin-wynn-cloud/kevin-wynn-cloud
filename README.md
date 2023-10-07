@@ -1,8 +1,10 @@
 # Hi, I'm Kevin Wynn.
 
 Although my dog Mare-Bear is the one pictured.
-
-![ezgif com-gif-maker (12)](https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/3a1e231c-c0d5-489d-9ddb-110873de50e0)
+<div>
+ <img src="https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/3a1e231c-c0d5-489d-9ddb-110873de50e0"/>
+ <img src="https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/c1b2ed06-a536-4671-ab24-efc5da5a7519" width="250"/>
+</div>
 
 ## About Me
 
