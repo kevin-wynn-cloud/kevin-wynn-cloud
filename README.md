@@ -14,26 +14,26 @@ I'm a sunny and warm-hearted person, with my family serving as driving sources o
 For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please feel free to contact me for a zip archive. I am planning to review and make it publicly accessible before I begin interviewing for opportunities. During my Cloud Quest labs, I have covered the following services:
   
 <div id="badges">
-<img src="https://img.shields.io/badge/Amazon_S3-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-red?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_EC2-forestgreen?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_RDS-purple?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_SQS-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_CloudFront-brown?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_DynamoDB-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Step_Functions-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-teal?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_SNS-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_VPC-teal?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Glue-orange?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_Kinesis-purple?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_Redshift-orange?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_CloudFormation-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_CloudWatch-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Cloud9-brown?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Secrets_Manager-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_IAM-red?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_CloudTrail-forestgreen?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_S3-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_RDS-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_SQS-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_CloudFront-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_DynamoDB-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Step_Functions-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_SNS-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_VPC-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Glue-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Kinesis-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Redshift-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudFormation-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudWatch-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Cloud9-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Secrets_Manager-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_IAM-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudTrail-darkgray?logo=amazonaws"/>
 </div>
 
 ## Certificates and Badges
