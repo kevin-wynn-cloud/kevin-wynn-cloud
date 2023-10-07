@@ -25,3 +25,19 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 ## My AWS Repository
 
 For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please don't hesitate to contact me for a zip archive. My repository contains walkthroughs and insights gathered from the lab and project hours I've devoted to AWS. I am planning to review and make it publicly accessible once I complete my Tech U course. 
+
+## Connect with Me
+
+Please click the link below to connect with me on LinkedIn. Additionally, you're welcome to explore my Credly account and a static website I created using AWS services.
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kwynn100/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<a href="https://www.credly.com/users/kevin-wynn.fe2c81dc/badges">
+    <img src="https://img.shields.io/badge/Credly-yellow?logo=credly&logocolor=white" alt="Credly Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Static_Website-gray?logo=amazon" alt="Portfolio Badge"/>
+  </a>
+</div>
