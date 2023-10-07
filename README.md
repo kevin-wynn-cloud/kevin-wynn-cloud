@@ -37,7 +37,7 @@ Please click the link below to connect with me on LinkedIn. Additionally, you're
 <a href="https://www.credly.com/users/kevin-wynn.fe2c81dc/badges">
     <img src="https://img.shields.io/badge/Credly-yellow?logo=credly&logocolor=white" alt="Credly Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://kevin-wynn.com/">
     <img src="https://img.shields.io/badge/Static_Website-gray?logo=amazon" alt="Portfolio Badge"/>
   </a>
 </div>
