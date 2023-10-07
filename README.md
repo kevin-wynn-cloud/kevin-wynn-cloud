@@ -22,9 +22,9 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 [![AWS Cloud Quest: Data Analytics](https://images.credly.com/size/150x150/images/2cd965b0-5f5d-4510-ab05-cfa2f80342a1/image.png)](http://www.credly.com/badges/e1aea834-7ec2-451b-987b-3a2b4c5c8c51 "AWS Cloud Quest: Data Analytics")
 <!--END_SECTION:badges-->
 
-## My AWS Repository
+## My Projects
 
-For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please don't hesitate to contact me for a zip archive. My repository contains walkthroughs and insights gathered from the lab and project hours I've devoted to AWS. I am planning to review and make it publicly accessible once I complete my Tech U course. 
+For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please feel free to contact me for a zip archive. I am planning to review and make it publicly accessible before I complete my Tech U course and begin interviewing for opportunities.
 
 ## Connect with Me
 
