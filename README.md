@@ -24,7 +24,31 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 
 ## My Projects
 
-For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please feel free to contact me for a zip archive. I am planning to review and make it publicly accessible before I complete my Tech U course and begin interviewing for opportunities.
+For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please feel free to contact me for a zip archive. I am planning to review and make it publicly accessible before I complete my Tech U course and begin interviewing for opportunities. During my Cloud Quest labs, I have covered the following services:
+
+<div id="badges">
+  
+<img src="https://img.shields.io/badge/Amazon_S3-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-red?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-green?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_RDS-purple?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_SQS-yellow?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_CloudFront-brown?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_DynamoDB-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Step_Functions-yellow?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-teal?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_SNS-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_VPC-red?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Glue-green?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Kinesis-purple?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Redshift-orange?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudFormation-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudWatch-green?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Cloud9-brown?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Secrets_Manager-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_IAM-red?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudTrail-green?logo=amazonaws"/>
+</div>
 
 ## Connect with Me
 
