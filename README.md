@@ -38,11 +38,11 @@ For security reasons, I currently maintain my compiled work in a private reposit
 <img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_SNS-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_VPC-teal?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Glue-brown?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Glue-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_Kinesis-purple?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_Redshift-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CloudFormation-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_CloudWatch-forestgreen?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudWatch-yellow?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Cloud9-brown?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Secrets_Manager-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_IAM-red?logo=amazonaws"/>
