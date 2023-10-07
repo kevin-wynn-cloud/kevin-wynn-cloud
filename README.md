@@ -15,25 +15,25 @@ For security reasons, I currently maintain my compiled work in a private reposit
   
 <div id="badges">
 <img src="https://img.shields.io/badge/Amazon_S3-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_EC2-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_RDS-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_RDS-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_SQS-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_CloudFront-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_CloudFront-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_DynamoDB-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Step_Functions-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Step_Functions-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_SNS-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_SNS-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_VPC-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Glue-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Glue-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_Kinesis-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_Redshift-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Redshift-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CloudFormation-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_CloudWatch-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudWatch-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Cloud9-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Secrets_Manager-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Secrets_Manager-gray?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_IAM-gray?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_CloudTrail-darkgray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CloudTrail-gray?logo=amazonaws"/>
 </div>
 
 ## Certificates and Badges
