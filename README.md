@@ -2,7 +2,7 @@
 
 Although my dog Mare-Bear is the one pictured.
 
-![ezgif com-resize (1)](https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/cde8ad22-88cb-426d-8a5e-c48bc8e0a2cb)
+![ezgif com-gif-maker (8)](https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/da22dc43-1db9-4f09-aef3-3781d1f64d2c)
 
 ## About Me
 
