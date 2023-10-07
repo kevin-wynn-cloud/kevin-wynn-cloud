@@ -38,6 +38,6 @@ Please click the link below to connect with me on LinkedIn. Additionally, you're
     <img src="https://img.shields.io/badge/Credly-yellow?logo=credly&logocolor=white" alt="Credly Badge"/>
   </a>
   <a href="https://kevin-wynn.com/">
-    <img src="https://img.shields.io/badge/Static_Website-gray?logo=amazon" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Static_Website-orange?logo=amazonaws" alt="Portfolio Badge"/>
   </a>
 </div>
