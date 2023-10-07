@@ -3,7 +3,7 @@
 Although my dog Mare-Bear is the one pictured.
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/3a1e231c-c0d5-489d-9ddb-110873de50e0" />
-  <img src="https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/c1b2ed06-a536-4671-ab24-efc5da5a7519" width="250" style="margin-left: auto;" />
+  <img src="https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/7379c250-8b47-4332-9819-e2f8fdbc2c2c" width="250" style="margin-left: auto;" />
 </div>
 
 ## About Me
