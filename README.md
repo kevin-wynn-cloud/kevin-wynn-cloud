@@ -3,6 +3,7 @@
 Although my dog Mare-Bear is the one pictured.
 
 ![ezgif com-gif-maker (12)](https://github.com/kevin-wynn-cloud/kevin-wynn-cloud/assets/144941082/3a1e231c-c0d5-489d-9ddb-110873de50e0)
+
 ## About Me
 
 I'm a sunny and warm-hearted person, with my family serving as driving sources of inspiration. I have devoted several years to studying and applying cloud technologies and am eagerly looking forward to specializing in the industry. Some of my favorite hobbies include training my dogs, playing NFL Fantasy Football, Chess Evolved Online, and reading manga.
