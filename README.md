@@ -10,6 +10,7 @@ Although my dog Mare-Bear is the one pictured.
 I'm a sunny and warm-hearted person, with my family serving as driving sources of inspiration. I have devoted several years to studying and applying cloud technologies and am eagerly looking forward to specializing in the industry. Some of my favorite hobbies include training my dogs, playing NFL Fantasy Football, Chess Evolved Online, and reading manga.
 
 ## My Projects
+<!-- Link titles and projects when changing repository from private to public.-->
 
 For security reasons, I currently maintain my compiled work in a private repository. If you are a potential employer interested in reviewing my cloud-based experiences, please feel free to contact me for a zip archive. I am planning to review and make it publicly accessible before I begin interviewing for opportunities. During my Cloud Quest labs, I have covered the following services:
   
