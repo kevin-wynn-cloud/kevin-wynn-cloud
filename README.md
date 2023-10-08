@@ -15,23 +15,23 @@ For security reasons, I currently maintain my compiled work in a private reposit
   
 <div id="badges">
 <img src="https://img.shields.io/badge/Amazon_S3-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_EC2-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_RDS-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_SQS-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_CloudFront-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_CloudFront-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_DynamoDB-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Step_Functions-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_SNS-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_SNS-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_VPC-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Glue-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_Kinesis-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Amazon_Redshift-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Redshift-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CloudFormation-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CloudWatch-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Cloud9-yellow?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS_Secrets_Manager-gray?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Secrets_Manager-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_IAM-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CloudTrail-blue?logo=amazonaws"/>
 </div>
