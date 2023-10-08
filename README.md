@@ -52,7 +52,7 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 
 ## My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevin-wynn-cloud&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevin-wynn-cloud&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wynn-cloud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 After Python Projects
