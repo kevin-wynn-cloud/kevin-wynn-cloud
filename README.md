@@ -50,6 +50,12 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 [![AWS Cloud Quest: Data Analytics](https://images.credly.com/size/150x150/images/2cd965b0-5f5d-4510-ab05-cfa2f80342a1/image.png)](http://www.credly.com/badges/e1aea834-7ec2-451b-987b-3a2b4c5c8c51 "AWS Cloud Quest: Data Analytics")
 <!--END_SECTION:badges-->
 
+## My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevin-wynn-cloud&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wynn-cloud)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with Me
 
 Please click the link below to connect with me on LinkedIn. Additionally, you're welcome to explore my Credly account and a static website I created using AWS services.
