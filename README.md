@@ -12,6 +12,8 @@ I'm a sunny and warm-hearted person, with my family serving as driving sources o
 ## My Projects
 <!-- Link titles and projects when changing repository from private to public. Include second section for familiar services (Lambda, etc.) -->
 
+### AWS Projects
+
 For security reasons, I currently maintain my compiled work in a private [AWS Project Repository](https://github.com/kevin-wynn-cloud/AWS-Projects/tree/main). If you are a potential employer interested in reviewing my cloud-based experiences, please feel free to contact me for a zip archive. I am planning to review and make it publicly accessible before I begin interviewing for opportunities. During my Cloud Quest labs, I have covered the following services:
   
 <div id="badges">
@@ -38,6 +40,16 @@ For security reasons, I currently maintain my compiled work in a private [AWS Pr
 <img src="https://img.shields.io/badge/AWS_Athena-brown?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_OpenSearch_Service-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Lake_Formation-orange?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_API_Gateway-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Route_53-brown?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_KMS-teal?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Config-orange?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Backup-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_ECS-brown?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_Elastic_Container_Registry-teal?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_EC2_Auto_Scaling-orange?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_EFS-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Cloud_Economics-brown?logo=amazonaws"/>
 </div>
 
 ## Certificates and Badges
