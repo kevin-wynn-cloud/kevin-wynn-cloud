@@ -35,6 +35,9 @@ For security reasons, I currently maintain my compiled work in a private reposit
 <img src="https://img.shields.io/badge/AWS_Secrets_Manager-teal?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_IAM-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CloudTrail-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Athena-yellow?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_OpenSearch_Service-teal?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Lake_Formation-orange?logo=amazonaws"/>
 </div>
 
 ## Certificates and Badges
