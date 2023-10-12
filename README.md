@@ -14,7 +14,7 @@ I'm a sunny and warm-hearted person, with my family serving as driving sources o
 
 ### AWS Projects
 
-My [AWS Project Repository](https://github.com/kevin-wynn-cloud/AWS-Projects/tree/main)  is currently private. However, if you are a potential employer, please feel free to contact me, and I can provide a zip archive of my work. I plan to ensure that no sensitive information is present in the repository before making it public. Currently, I am working towards completing all the Cloud Quest labs, and I intend to start working on Python projects soon, as the Tech U course will cover Python curriculum.
+If you're a potential employer, please feel free to explore my [AWS Project Repository](https://github.com/kevin-wynn-cloud/AWS-Projects/tree/main). I'm currently in the process of completing all the Cloud Quest labs, and I have plans to embark on Python projects in the near future. This is in preparation for the Tech U course, which will cover Python curriculum.
   
 <div id="badges">
 <img src="https://img.shields.io/badge/Amazon_S3-brown?logo=amazonaws"/>
