@@ -68,7 +68,7 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 
 ## My Stats
 
-If the statistics have not loaded, please briefly hover your mouse over the box below.
+If the statistics have not loaded, please briefly hover your cursor over the box below.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevin-wynn-cloud&theme=dark&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
