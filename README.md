@@ -47,10 +47,10 @@ If you're a potential employer, please feel free to explore my [AWS Project Repo
 <img src="https://img.shields.io/badge/Amazon_EC2_Auto_Scaling-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Amazon_EFS-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Cloud_Economics-brown?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/CodeCommit-teal?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/CodeDeploy-orange?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/CodePipeline-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/CodeBuild-brown?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CodeCommit-teal?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_CodeDeploy-orange?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CodePipeline-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_CodeBuild-brown?logo=amazonaws"/>
 </div>
 
 ## Certificates and Badges
