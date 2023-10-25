@@ -69,9 +69,7 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 
 ## My Stats
 
-Sometimes these stats may not load. However, hovering your mouse over the box or reloading the page usually resolves the issue.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevin-wynn-cloud&theme=dark&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-rosy-five.vercel.app?user=kevin-wynn-cloud&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wynn-cloud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 After Python Projects
