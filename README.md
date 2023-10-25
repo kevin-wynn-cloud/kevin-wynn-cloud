@@ -2,11 +2,11 @@
 
 Although my dog Mare-Bear is the one pictured.
 
-## About Me
+# About Me
 
 I'm a sunny and warm-hearted person, with my family serving as driving sources of inspiration. I have devoted several years to studying and applying cloud technologies, and am eagerly looking forward to specializing in the industry. Some of my favorite hobbies include working with my dogs, playing NFL Fantasy Football, Chess Evolved Online, and reading manga.
 
-## My Projects
+# My Projects
 <!-- Link titles and projects when changing repository from private to public. Include second section for familiar services (Lambda, etc.) -->
 
 ### AWS Projects
@@ -53,7 +53,7 @@ If you're a potential employer, please feel free to explore my [AWS Project Repo
 <img src="https://img.shields.io/badge/AWS_CodeBuild-brown?logo=amazonaws"/>
 </div>
 
-## Certificates and Badges
+# Certificates and Badges
 
 Big thanks to the user pemtajo for generously sharing this fantastic method for regularly and automatically scraping my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
 
@@ -67,7 +67,7 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 [![AWS Cloud Quest: Data Analytics](https://images.credly.com/size/150x150/images/2cd965b0-5f5d-4510-ab05-cfa2f80342a1/image.png)](http://www.credly.com/badges/e1aea834-7ec2-451b-987b-3a2b4c5c8c51 "AWS Cloud Quest: Data Analytics")
 <!--END_SECTION:badges-->
 
-## My Stats
+# My Stats
 
 Another big thank you goes to DenverCoder1, the creator of this awesome application for tracking GitHub stats. He also provided guidance on self-deployment for increased reliability and uptime, which was very helpful.
 
@@ -77,7 +77,7 @@ Another big thank you goes to DenverCoder1, the creator of this awesome applicat
 After Python Projects
 -->
 
-## Connect with Me
+# Connect with Me
 
 Please click the link below to connect with me on LinkedIn. Additionally, you're welcome to explore my Credly account and a static website I created using AWS services.
 
