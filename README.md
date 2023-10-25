@@ -69,7 +69,7 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 
 # My Stats
 
-Another big thank you goes to DenverCoder1, the creator of this awesome application for tracking GitHub stats. He also provided guidance on self-deployment for increased reliability and uptime, which was very helpful. However, if the small infographic below is not loading for you, reloading the page usually solves the issue.
+Another big thank you goes to DenverCoder1, the creator of this awesome application for tracking GitHub stats. He also provided guidance on self-deployment. Note, if the small infographic below is not loading, reloading the page usually solves the issue.
 
 [![GitHub Streak](https://github-readme-streak-stats-rosy-five.vercel.app?user=kevin-wynn-cloud&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
