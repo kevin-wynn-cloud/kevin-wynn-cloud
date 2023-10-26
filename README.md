@@ -51,6 +51,7 @@ If you're a potential employer, please feel free to explore my [AWS Project Repo
 <img src="https://img.shields.io/badge/Amazon_CodeDeploy-orange?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CodePipeline-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_CodeBuild-brown?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Certificate_Manager-teal?logo=amazonaws"/>
 </div>
 
 # Certificates and Badges
