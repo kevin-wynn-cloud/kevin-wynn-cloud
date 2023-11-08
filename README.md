@@ -74,9 +74,7 @@ Another big thank you goes to DenverCoder1, the creator of this awesome applicat
 
 [![GitHub Streak](https://github-readme-streak-stats-rosy-five.vercel.app?user=kevin-wynn-cloud&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wynn-cloud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-After Python Projects
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wynn-cloud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 # Connect with Me
 
