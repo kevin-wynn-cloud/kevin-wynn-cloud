@@ -4,7 +4,7 @@ Although my dog Mare-Bear is the one pictured.
 
 # About Me
 
-I'm a sunny and warm-hearted person, with my family serving as driving sources of inspiration. I have devoted several years to studying and applying cloud technologies, and am eagerly looking forward to specializing in the industry one day. Some of my favorite hobbies include working with my dogs, playing NFL Fantasy Football, Chess Evolved Online, and reading manga.
+I'm a sunny and warm-hearted person, with my family serving as driving sources of inspiration. I have devoted several years to studying and applying cloud technologies, and am eagerly looking forward to specializing in the industry one day. Some of my favorite hobbies include working with my dogs, playing NFL Fantasy Football, Chess Evolved Online, and reading manga (One Piece currently).
 
 # My Projects
 <!-- Link titles and projects when changing repository from private to public. Include second section for familiar services (Lambda, etc.) -->
