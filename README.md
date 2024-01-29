@@ -65,6 +65,7 @@ Big thanks to the user pemtajo for generously sharing this fantastic method for 
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/150x150/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/1695e3b8-8b63-4e95-bbc0-905f29314298 "AWS Certified SysOps Administrator – Associate")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/150x150/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/0523bd23-0ab9-488a-8026-82d9251603bc "AWS Cloud Quest: Cloud Practitioner")
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/150x150/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/0a1e3f10-5b23-49bb-ab9b-a55bbdd9e456 "AWS Cloud Quest: Solutions Architect")
+[![AWS Cloud Quest: Serverless Developer](https://images.credly.com/size/150x150/images/9a2fd02b-52ab-448d-9d19-fd9b68efe1f6/image.png)](http://www.credly.com/badges/f9874f0c-0969-45cc-96fa-e9002a74c8ef "AWS Cloud Quest: Serverless Developer")
 [![AWS Cloud Quest: Data Analytics](https://images.credly.com/size/150x150/images/2cd965b0-5f5d-4510-ab05-cfa2f80342a1/image.png)](http://www.credly.com/badges/e1aea834-7ec2-451b-987b-3a2b4c5c8c51 "AWS Cloud Quest: Data Analytics")
 <!--END_SECTION:badges-->
 
