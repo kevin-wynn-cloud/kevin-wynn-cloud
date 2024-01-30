@@ -79,7 +79,7 @@ Another big thank you goes to DenverCoder1, the creator of this awesome applicat
 
 # Connect with Me
 
-Please click the link below to connect with me on LinkedIn. Additionally, you're welcome to explore my Credly account and a static website I created using AWS services.
+Please click the link below to connect with me on LinkedIn. Additionally, you're welcome to explore my Credly account. Thank you for visiting!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kwynn100/">
