@@ -79,12 +79,9 @@ Another big thank you goes to DenverCoder1, the creator of this awesome applicat
 
 # Connect with Me
 
-Please click the link below to connect with me on LinkedIn. Additionally, you're welcome to explore my Credly account. Thank you for visiting!
+Please click the link below to connect with me on Credly. Thank you for visiting!
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kwynn100/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 <a href="https://www.credly.com/users/kevin-wynn.fe2c81dc/badges">
     <img src="https://img.shields.io/badge/Credly-brown?logo=credly&logocolor=white" alt="Credly Badge"/>
   </a>
