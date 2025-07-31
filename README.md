@@ -56,7 +56,7 @@ If you're a potential employer, please feel free to explore my [AWS Project Repo
 
 # Certificates and Badges
 
-Big thanks to the user pemtajo for generously sharing this fantastic method for regularly and automatically scraping my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
+Big thanks to the user pemtajo for creating and sharing this method for regularly and automatically scrape my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
 
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/6bb33fe6-c16a-498d-8b44-f872723c8dd3 "AWS Certified Cloud Practitioner")
