@@ -55,7 +55,7 @@ Please feel free to explore my [AWS Project Repository](https://github.com/kevin
 
 # Certificates and Badges
 
-Big thanks to the user pemtajo for creating and sharing this method for regularly and automatically scrape my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
+Big thanks to the user pemtajo for creating and sharing this method for regularly and automatically scraping my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/38f15f4f-043d-456f-957b-fe1c16bacb82" title="Most Valuable Player Award"><img src="https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png" alt="Most Valuable Player Award" width="80" height="80"></a>
