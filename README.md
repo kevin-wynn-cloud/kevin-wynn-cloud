@@ -58,6 +58,7 @@ Please feel free to explore my [AWS Project Repository](https://github.com/kevin
 Big thanks to the user pemtajo for creating and sharing this method for regularly and automatically scraping my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/782a325d-0c60-439f-a376-f05a97d6181b" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/38f15f4f-043d-456f-957b-fe1c16bacb82" title="Most Valuable Player Award"><img src="https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png" alt="Most Valuable Player Award" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1f40739c-e647-417e-baa2-ef93a2e98699" title="Most Valuable Player Award"><img src="https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png" alt="Most Valuable Player Award" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f9874f0c-0969-45cc-96fa-e9002a74c8ef" title="AWS Cloud Quest: Serverless Developer"><img src="https://images.credly.com/size/80x80/images/9a2fd02b-52ab-448d-9d19-fd9b68efe1f6/image.png" alt="AWS Cloud Quest: Serverless Developer" width="80" height="80"></a>
@@ -65,9 +66,8 @@ Big thanks to the user pemtajo for creating and sharing this method for regularl
 <a href="https://www.credly.com/badges/1695e3b8-8b63-4e95-bbc0-905f29314298" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/0a1e3f10-5b23-49bb-ab9b-a55bbdd9e456" title="AWS Cloud Quest: Solutions Architect"><img src="https://images.credly.com/size/80x80/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" alt="AWS Cloud Quest: Solutions Architect" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/0523bd23-0ab9-488a-8026-82d9251603bc" title="AWS Cloud Quest: Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/6bb33fe6-c16a-498d-8b44-f872723c8dd3" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/68801bb6-5062-40b4-bdbf-5558cb7f3f71" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6cc8e66d-4e55-44f5-8c2c-07a258495d1c" title="CompTIA Security+ ce Certification"><img src="https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce Certification" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/963ee5a0-3620-43d5-afdc-8f72cc3dce1b" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 # My Stats
