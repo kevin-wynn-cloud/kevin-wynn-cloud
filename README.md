@@ -58,16 +58,14 @@ Please feel free to explore my [AWS Project Repository](https://github.com/kevin
 Big thanks to the user pemtajo for creating and sharing this method for regularly and automatically scraping my Credly profile to retrieve my badges. Please feel free to click on the images below to access my Credly account for verification.
 
 <!--START_SECTION:badges-->
-[![Most Valuable Player Award](https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png)](https://www.credly.com/badges/1f40739c-e647-417e-baa2-ef93a2e98699)
-[![Most Valuable Player Award](https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png)](https://www.credly.com/badges/38f15f4f-043d-456f-957b-fe1c16bacb82)
-[![Firefighter Award](https://images.credly.com/size/80x80/images/3ed72338-10d6-47fc-8357-9e31c2853f24/blob)](https://www.credly.com/badges/3e662a51-7091-4912-b21c-febb3f0a6601)
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/1695e3b8-8b63-4e95-bbc0-905f29314298)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/782a325d-0c60-439f-a376-f05a97d6181b)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/68801bb6-5062-40b4-bdbf-5558cb7f3f71)
-[![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/0523bd23-0ab9-488a-8026-82d9251603bc)
-[![AWS Cloud Quest: Data Analytics - Training Badge](https://images.credly.com/size/80x80/images/530be67d-1ce0-46d4-8a36-3f277d5687bc/blob)](https://www.credly.com/badges/e1aea834-7ec2-451b-987b-3a2b4c5c8c51)
-[![AWS Cloud Quest: Serverless Developer - Training Badge](https://images.credly.com/size/80x80/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob)](https://www.credly.com/badges/f9874f0c-0969-45cc-96fa-e9002a74c8ef)
-[![AWS Cloud Quest: Solutions Architect - Training Badge](https://images.credly.com/size/80x80/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob)](https://www.credly.com/badges/0a1e3f10-5b23-49bb-ab9b-a55bbdd9e456)
+[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/2f77fd6f-79e7-447a-a52c-98bcd787c739)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/782a325d-0c60-439f-a376-f05a97d6181b)
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/1695e3b8-8b63-4e95-bbc0-905f29314298)
+[![Well-Architected Proficient](https://images.credly.com/size/80x80/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](https://www.credly.com/badges/5c06112d-a242-4f22-a2a2-5f4a16f802ce)
+[![Most Valuable Player Award](https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png)](https://www.credly.com/badges/1f40739c-e647-417e-baa2-ef93a2e98699)
+[![Firefighter Award](https://images.credly.com/size/80x80/images/3ed72338-10d6-47fc-8357-9e31c2853f24/blob)](https://www.credly.com/badges/3e662a51-7091-4912-b21c-febb3f0a6601)
+[![Most Valuable Player Award](https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png)](https://www.credly.com/badges/38f15f4f-043d-456f-957b-fe1c16bacb82)
 <!--END_SECTION:badges-->
 
 # My Stats
