@@ -63,6 +63,7 @@ Big thanks to the user pemtajo for creating and sharing this method for regularl
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/782a325d-0c60-439f-a376-f05a97d6181b)
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/1695e3b8-8b63-4e95-bbc0-905f29314298)
 [![Well-Architected Proficient](https://images.credly.com/size/80x80/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](https://www.credly.com/badges/5c06112d-a242-4f22-a2a2-5f4a16f802ce)
+[![AWS AI Foundational (L100)](https://images.credly.com/size/80x80/images/97c269f6-c8d0-40bd-8cbc-5c7834dbbc91/blob)](https://www.credly.com/badges/bcaf5d8c-c0e5-432f-b759-7b163411897b)
 [![Most Valuable Player Award](https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png)](https://www.credly.com/badges/1f40739c-e647-417e-baa2-ef93a2e98699)
 [![Firefighter Award](https://images.credly.com/size/80x80/images/3ed72338-10d6-47fc-8357-9e31c2853f24/blob)](https://www.credly.com/badges/3e662a51-7091-4912-b21c-febb3f0a6601)
 [![Most Valuable Player Award](https://images.credly.com/size/80x80/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png)](https://www.credly.com/badges/38f15f4f-043d-456f-957b-fe1c16bacb82)
